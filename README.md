@@ -1,6 +1,6 @@
 # "Rinf copies flutter_rust_bridge, says bridge bad, claims rinf ultimate"'s appendix
 
-Link: https://www.reddit.com/r/rust/comments/191b2to/rinf_copies_a_lot_from_flutter_rust_bridge_but/
+Link: https://www.reddit.com/r/rust/comments/191b2to/rinf_copies_a_lot_from_flutter_rust_bridge_but/, https://www.reddit.com/r/FlutterDev/comments/191b3k7/rinf_copies_a_lot_from_flutter_rust_bridge_but/
 
 Remark: The `cmp_frb` and `cmp_rinf` branches in this repository are used for git diff below.
 
